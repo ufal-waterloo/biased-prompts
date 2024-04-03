@@ -1,20 +1,7 @@
 # Bias Attack 
 
-- [Project summary](#project-summary)
-  - [The issue we are hoping to solve](#the-issue-we-are-hoping-to-solve)
-  - [How our solution can help](#how-our-solution-can-help)
 - [Papers](#papers)
   - [Towards an Adversarial-Attack Approach to Assess Bias in Text-to-Image Models](#paper1)
-
-
-## Project summary
-
-### The issue we are hoping to solve
-
-.....
-### How our solution can help
-
-....
 
 
 ## Related Papers
