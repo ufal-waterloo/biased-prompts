@@ -20,7 +20,7 @@
 ## Related Papers
 
 ### Paper 1: Towards an Adversarial-Attack Approach to Assess Bias in Text-to-Image Models
-- [Overleaf Link](https://www.overleaf.com/project/65f20a82ee1750dde1bc1d67)
+- [Link Paper](TO APPEAR)
 - [Prompts Link](https://docs.google.com/spreadsheets/d/18if8iqIjwA3pgD2bEdomQ_CXoLEo-YrD/edit?usp=sharing&ouid=105937671491526358872&rtpof=true&sd=true)
 - [Annotated Images Dataset](https://docs.google.com/spreadsheets/d/1yF_1AahhbzFiX70KvX0asA7jnvd-889a/edit?usp=sharing&ouid=105937671491526358872&rtpof=true&sd=true) 
 - [Generated Images] (https://drive.google.com/file/d/1uOA2qr8QW11AQU_EacrRCyACppIGJMAI/view?usp=sharing)
